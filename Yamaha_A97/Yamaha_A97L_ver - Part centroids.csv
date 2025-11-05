@@ -1,0 +1,15 @@
+"Ultiboard Information Export File"
+
+"Design Name  : Yamaha_A97L_ver - Part centroids"
+"Report Date  : 30 January 2022"
+"Report Time  : 13:15"
+"--------------------------------------------------------------------------------"
+
+"REFDES","VALUE","X_CENTRE[mm]","Y_CENTRE[mm]","ROT","SIDE","TYPE","FOOTPRINT",,,
+
+"J1","HDR1X2","14.700000","7.500000","270","TOP","THD","NXW-02"
+"J2","HDR1X2","127.100000","35.300000","180","TOP","THD","NXW-02"
+"J3","HDR1X5","13.700000","38.700000","180","TOP","THD","NXW-05K"
+"J4","HDR1X9","5.700000","24.400000","270","TOP","THD","NXW-09K"
+"J5","JUMPER","","","90","TOP","THD","JUMPER"
+"J6","JUMPER","","","90","TOP","THD","JUMPER"

@@ -1,0 +1,21 @@
+ULTIBOARD DRILL REPORT
+
+Design: Yamaha_A97L_ver
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                        LAMINATION
+Yamaha_A97L_ver - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   2.0000   NPTH      5
+   2   0.7000    PTH     22
