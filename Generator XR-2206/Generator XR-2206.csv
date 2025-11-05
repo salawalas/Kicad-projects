@@ -1,0 +1,22 @@
+Reference	Value	Datasheet	Footprint	Qty	DNP
+C1,C11	1u	~	-- różne wartości --	2	
+C2	33u	~	Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm	1	
+C3	22u	~	Capacitor_THT:CP_Radial_Tantal_D5.5mm_P5.00mm	1	
+C4,C5,C6,C7	47u	~	Capacitor_THT:CP_Radial_D6.3mm_P2.50mm	4	
+C8	1000p	~	Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal	1	
+C9	10n	~	Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal	1	
+C10,C12,C13	100n	~	Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal	3	
+C14	10u	~	Capacitor_THT:CP_Radial_D6.3mm_P2.50mm	1	
+C15	100u/16V	~	Capacitor_THT:CP_Radial_D6.3mm_P2.50mm	1	
+J1,J2	Conn_Coaxial_Small	~	Connector_Coaxial:BNC_TEConnectivity_1478035_Horizontal	2	
+J3	Barrel_Jack_Switch	~	Connector_BarrelJack:BarrelJack_GCT_DCJ200-10-A_Horizontal	1	
+J4,J5	Conn_01x05_Pin	~	Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical	2	
+J6,J7	Conn_01x02_Pin	~	Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical	2	
+R1,R2	5k1	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	2	
+R3,R5	4k7	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	2	
+R4	1k	~	Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	1	
+RV1,RV4	20k	~	-- różne wartości --	2	
+RV2	1M	~	Potentiometer_Alps_RK09K_Single_Vertical	1	
+RV3	500	~	Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical	1	
+RV5	100k	~	Potentiometer_Alps_RK09K_Single_Vertical	1	
+U1	XR2206		Package_DIP:DIP-16_W7.62mm_Socket	1	
