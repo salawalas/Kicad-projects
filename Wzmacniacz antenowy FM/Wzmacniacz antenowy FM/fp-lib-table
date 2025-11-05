@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Package_SMT_TO")(type "KiCad")(uri "C:/Users/IWONA/Documents/KiCad/6.0/footprints/Package_SMT_TO.pretty")(options "")(descr ""))
+  (lib (name "Induktor_cewki")(type "KiCad")(uri "C:/Users/IWONA/Documents/KiCad/6.0/footprints/Induktor_cewki.pretty")(options "")(descr ""))
+)
