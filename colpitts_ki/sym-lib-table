@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "colpitts-k_1v5-rescue")(type "KiCad")(uri "${KIPRJMOD}/colpitts-k_1v5-rescue.kicad_sym")(options "")(descr ""))
+)
