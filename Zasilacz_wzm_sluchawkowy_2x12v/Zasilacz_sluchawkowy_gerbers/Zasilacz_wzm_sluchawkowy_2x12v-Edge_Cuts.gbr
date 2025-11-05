@@ -1,0 +1,26 @@
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(6.0.4)*
+G04 #@! TF.CreationDate,2022-05-03T12:05:26+02:00*
+G04 #@! TF.ProjectId,Zasilacz_wzm_sluchawkowy_2x12v,5a617369-6c61-4637-9a5f-777a6d5f736c,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.4)) date 2022-05-03 12:05:26*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+G04 #@! TA.AperFunction,Profile*
+%ADD10C,0.100000*%
+G04 #@! TD*
+G04 APERTURE END LIST*
+D10*
+X79100000Y-60000000D02*
+X164600000Y-60000000D01*
+X164600000Y-60000000D02*
+X164600000Y-120000000D01*
+X164600000Y-120000000D02*
+X79100000Y-120000000D01*
+X79100000Y-120000000D02*
+X79100000Y-60000000D01*
+M02*
