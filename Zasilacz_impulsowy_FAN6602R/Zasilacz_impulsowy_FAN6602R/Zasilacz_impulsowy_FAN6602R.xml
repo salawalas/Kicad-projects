@@ -1,0 +1,1013 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\IWONA\Documents\KiCad\Projekty\Zasilacz_impulsowy_FAN6602R\Zasilacz_impulsowy_FAN6602R\Zasilacz_impulsowy_FAN6602R.kicad_sch</source>
+    <date>09/05/2022 18:03:11</date>
+    <tool>Eeschema (6.0.5)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Zasilacz_impulsowy_FAN6602R.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed7cf4e6-4dc8-4aec-9d24-7aabaa7f3f01</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.33u</value>
+      <footprint>Capacitor_THT:C_Rect_L18.0mm_W7.0mm_P15.00mm_FKS3_FKP3</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>95ef3f36-06e1-42a3-b041-0ac39d8b750a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1n</value>
+      <footprint>Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7344c2a-7d32-4a89-b64f-ba27b62d14ca</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>470u / 16V</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fe124bf7-ba30-47ec-a8d8-e67fcccf759f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7e16d926-59c5-4199-b199-58f19e2c80ec</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>82u</value>
+      <footprint>Capacitor_THT:CP_Radial_D13.0mm_P7.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6d1ca6f3-4eaf-4074-a6ea-55cb1961d038</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>680u/16V</value>
+      <footprint>Capacitor_THT:CP_Radial_D10.0mm_P3.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e70834ba-5cad-465b-8f2a-fe718c5aad05</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>2.2n</value>
+      <footprint>Capacitor_THT:C_Axial_L5.1mm_D3.1mm_P10.00mm_Horizontal</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef81a283-08ef-4b13-b7da-40db626e5a5b</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>888113b2-50f0-42c1-8481-5be125566485</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>470p</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14fd22bf-7328-4e8e-b4e6-ad41e1bc6a81</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5683f4cf-fd0d-46a3-8c4d-cf47e8d6de87</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>4.7u</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c5f15699-f31c-425e-8b2b-e6281560eacd</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>22u</value>
+      <footprint>Capacitor_THT:CP_Radial_D5.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f22b33bb-5f1f-4f01-97b0-d58af0631724</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>6.8n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>79101cbc-19cc-4a81-ab9d-c501d63a64f8</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>1n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6368067d-659f-461a-b9d6-7ae13a83f22c</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>47n</value>
+      <footprint>Capacitor_SMD:C_1206_3216Metric</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>caa579a4-73b7-4482-9e68-4abb4eeea97c</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>GBU4M</value>
+      <footprint>Diode_THT:Diode_Bridge_Vishay_GBL</footprint>
+      <datasheet>http://www.vishay.com/docs/88656/gbu4a.pdf</datasheet>
+      <libsource lib="Diode_Bridge" part="GBU4M" description="Single-Phase Bridge Rectifier, 700V Vrms, 4.0A If, GBU package"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52ddc23e-bf38-4225-99d2-f6c4bb5622a5</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>20S100CT</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Vertical</footprint>
+      <libsource lib="Device" part="D_Schottky_Dual_CommonCathode_AKA_Parallel" description="Dual Schottky diode, common anode on pin 1"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f435aae0-623b-4b6c-811b-2eb8164e3750</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4007</value>
+      <footprint>Dioda_THT:D_DO-41_SOD81_P15mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1632f440-1489-4f3b-97a1-7ec1dcfbe531</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4007</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4007" description="1000V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>967f84d1-d79b-4b24-87ae-52fa99f469d8</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>696f2222-008c-4bf5-b421-89e3d0755a46</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4148</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148" description="100V 0.15A standard switching diode, DO-35"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b4ba14a-d820-4064-8633-13be1f692915</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>2A</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P5.08mm_Vertical</footprint>
+      <libsource lib="Device" part="Fuse_Small" description="Fuse, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54e6b0f7-631b-467d-9eac-3a6f11bc77f0</tstamps>
+    </comp>
+    <comp ref="FL1">
+      <value>Filter_EMI_LL</value>
+      <footprint>Induktor_cewki:Fitr_EMI_FA-N12W1051-REG-1</footprint>
+      <libsource lib="Device" part="Filter_EMI_LL" description="EMI 2-inductor filter"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64c17121-253a-4d59-a44e-c3c0df117987</tstamps>
+    </comp>
+    <comp ref="FL2">
+      <value>Filter_EMI_LL_1423</value>
+      <footprint>Induktor_cewki:Filtr_EMI_toroid</footprint>
+      <libsource lib="Device" part="Filter_EMI_LL_1423" description="EMI 2-inductor filter, pin-connections 1-4 and 2-3"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c46af98-855d-4ce0-aa47-c9d37114d6f9</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>STD7NM60N,IPA60R750E6XKSA1</value>
+      <footprint>Package_TO_SOT_THT:TO-220F-3_Vertical</footprint>
+      <libsource lib="Device" part="Q_NMOS_GDS" description="N-MOSFET transistor, gate/drain/source"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b08314e-633c-4334-9177-93597fd58394</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>47</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df41f16d-3cb0-4aa5-a8a4-d26765eade68</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>1.5M</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2be5252b-dec1-4e5d-bf94-acc6476f4813</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>1.5M</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>906a3078-43ca-4c30-bd13-d907e0473a83</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_1210_3225Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97733038-819d-484e-838d-63ffc4915893</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>0</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7ffdeab-e162-480d-877e-0d8396de618c</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e8e1c05-d922-4946-8b4c-a719ed1ea010</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>0.43 / 1W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a82c4612-3f85-40d3-807c-79fbaf722872</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>20</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6157b90d-2122-44ec-aca9-a016f4a45c9d</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>100</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d68b1378-0136-404e-95cd-6808f0d13dd7</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>348 / 1%</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b47f89bb-44a4-4a9f-8b7c-3acd2d90a48a</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>120k</value>
+      <footprint>Resistor_SMD:R_1206_3216Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>69af7fbf-5591-4915-bda2-5f7c84ca5acb</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>5.6k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94f10a1d-a813-411c-a3f0-1b1616779bea</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>4.7k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7cefa6e-9916-4d2a-a4d1-2f584994cccd</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db544841-b031-4d42-b4d6-97fef6cf034e</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>30k</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e3a7e870-1117-4b01-bbe5-2a37eb48abfe</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>471</value>
+      <footprint>Varistor:RV_Disc_D12mm_W3.9mm_P7.5mm</footprint>
+      <libsource lib="Device" part="Varistor_US" description="Voltage dependent resistor, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8e8dd6e2-0760-450a-b3b5-baaab08ea631</tstamps>
+    </comp>
+    <comp ref="T1">
+      <value>Transf_FT1201500SC</value>
+      <footprint>Induktor_cewki:Transf_FT1201500SC</footprint>
+      <datasheet>http://www.lundahl.se/wp-content/uploads/datasheets/1587.pdf</datasheet>
+      <libsource lib="Transformer" part="LL1587" description="Lundahl Transformers, Microphone Transformer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e06d1b5c-d532-4738-9b6f-e73576e8a140</tstamps>
+    </comp>
+    <comp ref="TH1">
+      <value>100k</value>
+      <footprint>Capacitor_THT:C_Disc_D3.4mm_W2.1mm_P2.50mm</footprint>
+      <libsource lib="Device" part="Thermistor_NTC_US" description="Temperature dependent resistor, negative temperature coefficient, US symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>17713db3-faed-438d-aa9d-df2e5cb7218f</tstamps>
+    </comp>
+    <comp ref="TP1">
+      <value>TestPoint_Small</value>
+      <footprint>Connector_Pin:Pin_D1.3mm_L11.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>59462690-81a1-4ed0-ae24-2717f4ee162e</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TestPoint_Small</value>
+      <footprint>Connector_Pin:Pin_D1.3mm_L11.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35065fa9-3bf6-47fe-9b61-b1de7c9f7e66</tstamps>
+    </comp>
+    <comp ref="TP3">
+      <value>TestPoint_Small</value>
+      <footprint>Connector_Pin:Pin_D1.3mm_L11.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19a5c97b-d7a3-4c96-8be5-05a0fbaba0c4</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TestPoint_Small</value>
+      <footprint>Connector_Pin:Pin_D1.3mm_L11.0mm</footprint>
+      <libsource lib="Connector" part="TestPoint_Small" description="test point"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6da911ad-f54a-4fac-9f73-a6c4eb0e67f1</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>FAN6602R</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6_Handsoldering</footprint>
+      <libsource lib="PWM_Controller" part="FAN6602R" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>50b98d50-7572-49be-b447-b60bc878f623</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>PC817</value>
+      <footprint>Package_DIP:DIP-4_W7.62mm</footprint>
+      <datasheet>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</datasheet>
+      <libsource lib="Isolator" part="PC817" description="DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c63f92f-5c55-429d-a8d3-19ccaa633703</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TL431LP</value>
+      <footprint>Package_TO_SOT_THT:TO-92_Inline</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tl431.pdf</datasheet>
+      <libsource lib="Reference_Voltage" part="TL431LP" description="Shunt Regulator, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Zasilacz_impulsowy_FAN6602R.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>92472d42-8f42-4e36-b501-9b63b08e7fa8</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint_Small">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Schottky_Dual_CommonCathode_AKA_Parallel">
+      <description>Dual Schottky diode, common anode on pin 1</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky_Dual_CommonCathode_AKA_Parallel</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Filter_EMI_LL">
+      <description>EMI 2-inductor filter</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>L_*</fp>
+        <fp>L_CommonMode*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FL</field>
+        <field name="Value">Filter_EMI_LL</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Filter_EMI_LL_1423">
+      <description>EMI 2-inductor filter, pin-connections 1-4 and 2-3</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Bourns*SRF0905*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FL2</field>
+        <field name="Value">Filter_EMI_LL_1423</field>
+        <field name="Footprint">Induktor_cewki:Filtr_EMI_toroid</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Fuse_Small">
+      <description>Fuse, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Fuse_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Q_NMOS_GDS">
+      <description>N-MOSFET transistor, gate/drain/source</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">Q_NMOS_GDS</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="D" type="passive"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Thermistor_NTC_US">
+      <description>Temperature dependent resistor, negative temperature coefficient, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*NTC*</fp>
+        <fp>*Thermistor*</fp>
+        <fp>PIN?ARRAY*</fp>
+        <fp>bornier*</fp>
+        <fp>*Terminal?Block*</fp>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TH</field>
+        <field name="Value">Thermistor_NTC_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Varistor_US">
+      <description>Voltage dependent resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RV_*</fp>
+        <fp>Varistor*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">Varistor_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4007">
+      <description>1000V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4007</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4148">
+      <description>100V 0.15A standard switching diode, DO-35</description>
+      <docs>https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</docs>
+      <footprints>
+        <fp>D*DO?35*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4148</field>
+        <field name="Footprint">Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal</field>
+        <field name="Datasheet">https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode_Bridge" part="GBU4M">
+      <description>Single-Phase Bridge Rectifier, 700V Vrms, 4.0A If, GBU package</description>
+      <docs>http://www.vishay.com/docs/88656/gbu4a.pdf</docs>
+      <footprints>
+        <fp>Diode*Bridge*Vishay*GBU*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">GBU4M</field>
+        <field name="Footprint">Diode_THT:Diode_Bridge_Vishay_GBU</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88656/gbu4a.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="+" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Isolator" part="PC817">
+      <description>DC Optocoupler, Vce 35V, CTR 50-300%, DIP-4</description>
+      <docs>http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">PC817</field>
+        <field name="Footprint">Package_DIP:DIP-4_W7.62mm</field>
+        <field name="Datasheet">http://www.soselectronic.cz/a_info/resource/d/pc817.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="PWM_Controller" part="FAN6602R">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">FAN6602R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="input"/>
+        <pin num="2" name="FB" type="input"/>
+        <pin num="3" name="RT" type="input"/>
+        <pin num="4" name="SENSE" type="input"/>
+        <pin num="5" name="VDD" type="input"/>
+        <pin num="6" name="GATE" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Reference_Voltage" part="TL431LP">
+      <description>Shunt Regulator, TO-92</description>
+      <docs>http://www.ti.com/lit/ds/symlink/tl431.pdf</docs>
+      <footprints>
+        <fp>TO*92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TL431LP</field>
+        <field name="Footprint">Package_TO_SOT_THT:TO-92_Inline</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/tl431.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="REF" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transformer" part="LL1587">
+      <description>Lundahl Transformers, Microphone Transformer</description>
+      <docs>http://www.lundahl.se/wp-content/uploads/datasheets/1587.pdf</docs>
+      <footprints>
+        <fp>Transformer*Microphone*Lundahl*LL1587*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">T1</field>
+        <field name="Value">LL1587</field>
+        <field name="Footprint">Transformer_THT:Transformer_Breve_TEZ-22x24</field>
+        <field name="Datasheet">http://www.lundahl.se/wp-content/uploads/datasheets/1587.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1+" type="passive"/>
+        <pin num="2" name="P1-" type="passive"/>
+        <pin num="3" name="P2+" type="passive"/>
+        <pin num="4" name="P2-" type="passive"/>
+        <pin num="5" name="S+" type="passive"/>
+        <pin num="6" name="S-" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Diode_Bridge">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Diode_Bridge.kicad_sym</uri>
+    </library>
+    <library logical="Isolator">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Isolator.kicad_sym</uri>
+    </library>
+    <library logical="PWM_Controller">
+      <uri>C:/Users/IWONA/Documents/KiCad/6.0/symbols/PWM_Controller.kicad_sym</uri>
+    </library>
+    <library logical="Reference_Voltage">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Reference_Voltage.kicad_sym</uri>
+    </library>
+    <library logical="Transformer">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Transformer.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GND">
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="FL2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="T1" pin="6" pinfunction="S-" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="2" name="GNDPWR">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="4" pinfunction="-" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+      <node ref="T1" pin="4" pinfunction="P2-" pintype="passive"/>
+      <node ref="TH1" pin="2" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="3" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="FL2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="FL1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="RV1" pin="1" pintype="passive"/>
+      <node ref="TP1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(C2-Pad2)">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="FL1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="RV1" pin="2" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="+" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="T1" pin="1" pinfunction="P1+" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="FL2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(C4-Pad2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="FL2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="RT" pintype="input"/>
+    </net>
+    <net code="12" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="SENSE" pintype="input"/>
+    </net>
+    <net code="13" name="Net-(C11-Pad1)">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="VDD" pintype="input"/>
+    </net>
+    <net code="14" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(C14-Pad1)">
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(C14-Pad2)">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="REF" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="FB" pintype="input"/>
+      <node ref="U2" pin="4" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pintype="passive"/>
+      <node ref="FL1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D1-Pad3)">
+      <node ref="D1" pin="3" pintype="passive"/>
+      <node ref="FL1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D2-Pad1)">
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="T1" pin="5" pinfunction="S+" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="D" pintype="passive"/>
+      <node ref="T1" pin="2" pinfunction="P1-" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="T1" pin="3" pinfunction="P2+" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="Q1" pin="1" pinfunction="G" pintype="input"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(F1-Pad1)">
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(R6-Pad1)">
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="GATE" pintype="input"/>
+    </net>
+    <net code="29" name="Net-(R10-Pad2)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="TH1" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="K" pintype="passive"/>
+    </net>
+  </nets>
+</export>
