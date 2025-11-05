@@ -1,0 +1,2348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>Y:\KICAD\Projekty\LogicAnalyzer V6.0\LogicAnalyzer V6.0.kicad_sch</source>
+    <date>2025-08-06T15:40:02+0200</date>
+    <tool>Eeschema 9.0.3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LogicAnalyzer V6.0.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>476ca3ff-f972-eb90-6433-c3608718791c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6e4820c2-c5fa-4761-8b2e-cff51362d866</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>130906e4-a031-4ddc-9af6-0076fa925a90</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a72d7622-9ff4-484c-a61c-264dea93329e</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>943a866b-a30d-4194-afdf-1c31619001b7</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>808ca7d9-aa1e-4175-995c-ea9552dbd027</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e21b0416-0b6b-43c0-bb7c-8c3a7336c806</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>951de86d-2be4-4aa9-bd7d-408685481252</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8db225a-6c7b-46ce-a8cc-225b69b60862</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5deb9807-bebc-4007-80a4-83fc4e3861d4</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8499d645-57e0-4b86-bf04-909f3aa77294</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8132d35c-62f6-4eed-ab79-857945474430</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_7" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f1232e7-e798-4809-97ea-70e5bdc23dc3</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a3fd6a3-cb85-48c8-be0f-297ca122aa22</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08c3becd-dd62-4245-96be-9c0810ce76b3</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4b9faa8-4b09-4582-860f-b5be02867bf6</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64583da0-e8cd-4f4a-89aa-970aff23f446</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30cd1e10-7656-42e3-801f-2004803cb743</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>22u/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e947f886-ca21-4911-afa9-f828b52b6b3d</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>22u/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6878f89b-fe22-45f6-a53a-af084c418db4</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>22u/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fe58eea-62cf-419c-ae7c-0048cb7663e9</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>22u/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33f16fb4-4e4e-4753-a078-f5ddf5e3d826</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>22u/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>284bf8e4-df8c-46cd-a3c5-b9d4b584d706</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>22u/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>747a80e6-8737-428e-85d8-3dce929b4925</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aaaf2488-e8de-492d-a8c2-1d835b16d090</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>37b0408e-3f72-4646-8493-47419ad6b20b</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_11" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b35676f3-b81c-4225-9be3-4b4f16976e81</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_11" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>544ddb68-8f5a-4efa-ba67-04aebb506a06</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7662ab46-c435-4c3d-9a2e-1506701dc453</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>33u/10V</value>
+      <footprint>Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</footprint>
+      <datasheet>~</datasheet>
+      <description>Polarized capacitor, small symbol</description>
+      <fields>
+        <field name="Footprint">Capacitor_THT:CP_Radial_Tantal_D4.5mm_P2.50mm</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="C_Polarized_Small" description="Polarized capacitor, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <property name="ki_fp_filters" value="CP_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>022600f3-fa87-4f4a-97cd-1f25f3d011da</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>100n</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 100nF X5R ±20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_2" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77bae439-2c3a-41bb-814f-bab9875c814c</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_11" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e23806b8-76ae-456d-bce5-9659c7b7c2b8</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <datasheet>http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</datasheet>
+      <description>16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</description>
+      <fields>
+        <field name="Name">cap</field>
+        <field name="Manufacturer">WALSIN</field>
+        <field name="MPN">0402X104M160CT</field>
+        <field name="Reference-prefix">C</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Datasheet">http://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf</field>
+        <field name="Description">16V 1uF X5R ±20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS</field>
+      </fields>
+      <libsource lib="" part="my_capacitor_11" description=""/>
+      <property name="Name" value="cap"/>
+      <property name="Manufacturer" value="WALSIN"/>
+      <property name="MPN" value="0402X104M160CT"/>
+      <property name="Reference-prefix" value="C"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8eca4166-aa85-4c88-af69-fb7b4b5ee366</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LL4148</value>
+      <footprint>Diode_SMD:D_MiniMELF</footprint>
+      <datasheet>~</datasheet>
+      <description>Diode, small symbol</description>
+      <fields>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+        <field name="Footprint">Diode_SMD:D_MiniMELF</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Diode, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="diode"/>
+      <property name="ki_fp_filters" value="TO-???* *_Diode_* *SingleDiode* D_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>08f1feba-dbef-4392-8c51-01af0e970e85</tstamps>
+    </comp>
+    <comp ref="F1">
+      <value>1A</value>
+      <footprint>Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</footprint>
+      <datasheet>~</datasheet>
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <fields>
+        <field name="Footprint">Fuse:Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resettable fuse, polymeric positive temperature coefficient, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="Polyfuse_Small" description="Resettable fuse, polymeric positive temperature coefficient, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="resettable fuse PTC PPTC polyfuse polyswitch"/>
+      <property name="ki_fp_filters" value="*polyfuse* *PTC*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93dceef6-72d1-4d0a-8aa8-89bdcb2fdea4</tstamps>
+    </comp>
+    <comp ref="FB1">
+      <value>BLM21HE122SN1L</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c2de8736-0afd-47d2-8274-571a0f9ad7f5</tstamps>
+    </comp>
+    <comp ref="FB2">
+      <value>BLM21HE122SN1L</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db420e67-03e9-4f80-8774-350dd3808913</tstamps>
+    </comp>
+    <comp ref="FB3">
+      <value>BLM21HE122SN1L</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fc467d0-5cf1-4e2a-b4b1-75b5fa187d28</tstamps>
+    </comp>
+    <comp ref="FB4">
+      <value>BLM21HE122SN1L</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cca0adc4-d809-4835-8ca8-1cd87afecff5</tstamps>
+    </comp>
+    <comp ref="FB5">
+      <value>BLM21HE122SN1L</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db1c0fd4-4e0a-45ba-8642-f143aea01890</tstamps>
+    </comp>
+    <comp ref="FB6">
+      <value>BLM21HE122SN1L</value>
+      <footprint>Inductor_SMD:L_0805_2012Metric</footprint>
+      <datasheet>~</datasheet>
+      <description>Ferrite bead, small symbol</description>
+      <fields>
+        <field name="Footprint">Inductor_SMD:L_0805_2012Metric</field>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <libsource lib="Device" part="FerriteBead_Small" description="Ferrite bead, small symbol"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="L ferrite bead inductor filter"/>
+      <property name="ki_fp_filters" value="Inductor_* L_* *Ferrite*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54bfae14-4a76-45e5-b717-24063d58513d</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>PM254-1-03-W-8.5</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2306091006_HCTL-PM254-1-03-W-8-5_C2897385.pdf</datasheet>
+      <description>2.54mm Plugin 3A 3P -40℃~+105℃ Shrouded 1x3P side 8.5mm Square Holes Push-Pull,P=2.54mm  Female Headers ROHS</description>
+      <fields>
+        <field name="Name">J3</field>
+        <field name="Manufacturer">HCTL</field>
+        <field name="MPN">PM254-1-03-W-8.5</field>
+        <field name="Reference-prefix">J</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2306091006_HCTL-PM254-1-03-W-8-5_C2897385.pdf</field>
+        <field name="Description">2.54mm Plugin 3A 3P -40℃~+105℃ Shrouded 1x3P side 8.5mm Square Holes Push-Pull,P=2.54mm  Female Headers ROHS</field>
+      </fields>
+      <libsource lib="" part="C2897385" description=""/>
+      <property name="Name" value="J3"/>
+      <property name="Manufacturer" value="HCTL"/>
+      <property name="MPN" value="PM254-1-03-W-8.5"/>
+      <property name="Reference-prefix" value="J"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>14ade4ae-f855-a7c6-1fab-648dd30c19f8</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>DZ254W-11-03-65</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2201121730_DEALON-DZ254W-11-03-65_C2935928.pdf</datasheet>
+      <description>3A Shrouded Square Pins 2.54mm 3P 6mm 2.54mm Plugin 1x3P Push-Pull,P=2.54mm  Pin Headers ROHS</description>
+      <fields>
+        <field name="Name">J4</field>
+        <field name="Manufacturer">DEALON</field>
+        <field name="MPN">DZ254W-11-03-65</field>
+        <field name="Reference-prefix">J</field>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2201121730_DEALON-DZ254W-11-03-65_C2935928.pdf</field>
+        <field name="Description">3A Shrouded Square Pins 2.54mm 3P 6mm 2.54mm Plugin 1x3P Push-Pull,P=2.54mm  Pin Headers ROHS</field>
+      </fields>
+      <libsource lib="" part="C2935928" description=""/>
+      <property name="Name" value="J4"/>
+      <property name="Manufacturer" value="DEALON"/>
+      <property name="MPN" value="DZ254W-11-03-65"/>
+      <property name="Reference-prefix" value="J"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>db9f00eb-ac04-09ba-4c9c-fab61b60d2e5</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>HC-PZ254-13.8L-2x9PWA</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x09_P2.54mm_Horizontal</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C41376126.pdf</datasheet>
+      <description>Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x09_P2.54mm_Horizontal</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C41376126.pdf</field>
+        <field name="Description">Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x09_Odd_Even" description="Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04e3b508-4025-4b7c-812c-b227339f8f4d</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>HC-PZ254-13.8L-2x14PWA</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Horizontal</footprint>
+      <datasheet>https://www.lcsc.com/datasheet/C42163071.pdf</datasheet>
+      <description>Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <fields>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_2x14_P2.54mm_Horizontal</field>
+        <field name="Datasheet">https://www.lcsc.com/datasheet/C42163071.pdf</field>
+        <field name="Description">Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <libsource lib="Connector_Generic" part="Conn_02x14_Odd_Even" description="Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="connector"/>
+      <property name="ki_fp_filters" value="Connector*:*_2x??_*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5bc99f68-e68a-4667-8f44-a2ebe21e3d4c</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.vishay.com/docs/20035/dcrcwe3.pdf</datasheet>
+      <description>RES SMD 100K OHM 1% 1/16W 0402</description>
+      <fields>
+        <field name="Name">r2</field>
+        <field name="Manufacturer">VISHAY</field>
+        <field name="MPN">CRCW0402100KFKEE</field>
+        <field name="Reference-prefix">R</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet">https://www.vishay.com/docs/20035/dcrcwe3.pdf</field>
+        <field name="Description">RES SMD 100K OHM 1% 1/16W 0402</field>
+      </fields>
+      <libsource lib="" part="my_resistor_1" description=""/>
+      <property name="Name" value="r2"/>
+      <property name="Manufacturer" value="VISHAY"/>
+      <property name="MPN" value="CRCW0402100KFKEE"/>
+      <property name="Reference-prefix" value="R"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a69c232a-23fa-9c3c-0867-f3dd180c30aa</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>8K2</value>
+      <footprint>Resistor_SMD:R_0805_2012Metric</footprint>
+      <datasheet>https://www.bourns.com/docs/product-datasheets/crxxxxa.pdf</datasheet>
+      <description>RESISTOR AEC -Q200</description>
+      <fields>
+        <field name="Name">r1</field>
+        <field name="Manufacturer">BOURNS</field>
+        <field name="MPN">CR0402AJW-822GLF</field>
+        <field name="Reference-prefix">R</field>
+        <field name="Footprint">Resistor_SMD:R_0805_2012Metric</field>
+        <field name="Datasheet">https://www.bourns.com/docs/product-datasheets/crxxxxa.pdf</field>
+        <field name="Description">RESISTOR AEC -Q200</field>
+      </fields>
+      <libsource lib="" part="my_resistor" description=""/>
+      <property name="Name" value="r1"/>
+      <property name="Manufacturer" value="BOURNS"/>
+      <property name="MPN" value="CR0402AJW-822GLF"/>
+      <property name="Reference-prefix" value="R"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a0fa500-c3d2-cbf5-2c9e-0cfb92010f7e</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SS15E01L5</value>
+      <footprint>Przelaczniki:XKB Connection SS15E01L5</footprint>
+      <datasheet>https://lcsc.com/datasheet/lcsc_datasheet_2110111930_XKB-Connection-SS15E01L5_C1121868.pdf</datasheet>
+      <description>SP5T</description>
+      <fields>
+        <field name="Footprint">Przelaczniki:XKB Connection SS15E01L5</field>
+        <field name="Datasheet">https://lcsc.com/datasheet/lcsc_datasheet_2110111930_XKB-Connection-SS15E01L5_C1121868.pdf</field>
+        <field name="Description">SP5T</field>
+      </fields>
+      <libsource lib="Przelaczniki" part="SS15E01L5" description=""/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ccc903cc-3aff-4a9e-a12f-c89a11544257</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TXU0104PWR</value>
+      <footprint>jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_5</footprint>
+      <datasheet>https://www.ti.com/cn/lit/gpn/txu0104</datasheet>
+      <description>1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</description>
+      <fields>
+        <field name="Name">shifter</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="MPN">TXU0104PWR</field>
+        <field name="Reference-prefix">U</field>
+        <field name="Footprint">jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_5</field>
+        <field name="Datasheet">https://www.ti.com/cn/lit/gpn/txu0104</field>
+        <field name="Description">1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</field>
+      </fields>
+      <libsource lib="" part="C2938871_5" description=""/>
+      <property name="Name" value="shifter"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="MPN" value="TXU0104PWR"/>
+      <property name="Reference-prefix" value="U"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aadcebb8-790a-3452-56d6-1517a83874fc</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TXU0104PWR</value>
+      <footprint>jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_4</footprint>
+      <datasheet>https://www.ti.com/cn/lit/gpn/txu0104</datasheet>
+      <description>1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</description>
+      <fields>
+        <field name="Name">shifter</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="MPN">TXU0104PWR</field>
+        <field name="Reference-prefix">U</field>
+        <field name="Footprint">jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_4</field>
+        <field name="Datasheet">https://www.ti.com/cn/lit/gpn/txu0104</field>
+        <field name="Description">1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</field>
+      </fields>
+      <libsource lib="" part="C2938871_4" description=""/>
+      <property name="Name" value="shifter"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="MPN" value="TXU0104PWR"/>
+      <property name="Reference-prefix" value="U"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>560b4ca6-d555-9adb-a625-a039fac2356e</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TXU0104PWR</value>
+      <footprint>jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL</footprint>
+      <datasheet>https://www.ti.com/cn/lit/gpn/txu0104</datasheet>
+      <description>1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</description>
+      <fields>
+        <field name="Name">shifter</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="MPN">TXU0104PWR</field>
+        <field name="Reference-prefix">U</field>
+        <field name="Footprint">jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL</field>
+        <field name="Datasheet">https://www.ti.com/cn/lit/gpn/txu0104</field>
+        <field name="Description">1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</field>
+      </fields>
+      <libsource lib="" part="C2938871" description=""/>
+      <property name="Name" value="shifter"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="MPN" value="TXU0104PWR"/>
+      <property name="Reference-prefix" value="U"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1272a3ec-f974-e11d-d626-a03c52ee7386</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TXU0104PWR</value>
+      <footprint>jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_3</footprint>
+      <datasheet>https://www.ti.com/cn/lit/gpn/txu0104</datasheet>
+      <description>1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</description>
+      <fields>
+        <field name="Name">shifter</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="MPN">TXU0104PWR</field>
+        <field name="Reference-prefix">U</field>
+        <field name="Footprint">jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_3</field>
+        <field name="Datasheet">https://www.ti.com/cn/lit/gpn/txu0104</field>
+        <field name="Description">1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</field>
+      </fields>
+      <libsource lib="" part="C2938871_3" description=""/>
+      <property name="Name" value="shifter"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="MPN" value="TXU0104PWR"/>
+      <property name="Reference-prefix" value="U"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>58646b20-171b-3ede-5569-dd681d566938</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TXU0104PWR</value>
+      <footprint>jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_1</footprint>
+      <datasheet>https://www.ti.com/cn/lit/gpn/txu0104</datasheet>
+      <description>1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</description>
+      <fields>
+        <field name="Name">shifter</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="MPN">TXU0104PWR</field>
+        <field name="Reference-prefix">U</field>
+        <field name="Footprint">jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_1</field>
+        <field name="Datasheet">https://www.ti.com/cn/lit/gpn/txu0104</field>
+        <field name="Description">1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</field>
+      </fields>
+      <libsource lib="" part="C2938871_1" description=""/>
+      <property name="Name" value="shifter"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="MPN" value="TXU0104PWR"/>
+      <property name="Reference-prefix" value="U"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e044dca4-ae20-5c7f-6cdb-797202eda099</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>TXU0104PWR</value>
+      <footprint>jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_2</footprint>
+      <datasheet>https://www.ti.com/cn/lit/gpn/txu0104</datasheet>
+      <description>1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</description>
+      <fields>
+        <field name="Name">shifter</field>
+        <field name="Manufacturer">Texas Instruments</field>
+        <field name="MPN">TXU0104PWR</field>
+        <field name="Reference-prefix">U</field>
+        <field name="Footprint">jitx-design:TSSOP_14_L5_0_W4_4_P0_65_LS6_4_BL_2</field>
+        <field name="Datasheet">https://www.ti.com/cn/lit/gpn/txu0104</field>
+        <field name="Description">1.08V~5.5V 4 200Mbps 1.08V~5.5V TSSOP-14  Translators / Level Shifters ROHS</field>
+      </fields>
+      <libsource lib="" part="C2938871_2" description=""/>
+      <property name="Name" value="shifter"/>
+      <property name="Manufacturer" value="Texas Instruments"/>
+      <property name="MPN" value="TXU0104PWR"/>
+      <property name="Reference-prefix" value="U"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>685f9786-4087-5d7a-f14c-89cdbf7b4cd1</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>PICO</value>
+      <footprint>jitx-design:COMM_SMD_L51_0_W21_0_P2_54_SC0916</footprint>
+      <description>-  Raspberry Pi ROHS</description>
+      <fields>
+        <field name="Name">U7</field>
+        <field name="Manufacturer">Raspberry Pi</field>
+        <field name="MPN">PICO</field>
+        <field name="Reference-prefix">U</field>
+        <field name="Footprint">jitx-design:COMM_SMD_L51_0_W21_0_P2_54_SC0916</field>
+        <field name="Datasheet"/>
+        <field name="Description">-  Raspberry Pi ROHS</field>
+      </fields>
+      <libsource lib="" part="C7203002" description=""/>
+      <property name="Name" value="U7"/>
+      <property name="Manufacturer" value="Raspberry Pi"/>
+      <property name="MPN" value="PICO"/>
+      <property name="Reference-prefix" value="U"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9f4f3e94-de76-e55b-25c9-7dff735d743e</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>AMS1117-1.8</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <description>1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223</description>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-1.8" description="1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>041b0436-8f9a-4a62-808f-b8d3974623b8</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>AMS1117-2.5</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <description>1A Low Dropout regulator, positive, 2.5V fixed output, SOT-223</description>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 2.5V fixed output, SOT-223</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-2.5" description="1A Low Dropout regulator, positive, 2.5V fixed output, SOT-223"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6d44bf4-87ae-46be-8f45-3f7cf7d7e457</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>AMS1117-3.3</value>
+      <footprint>Package_TO_SOT_SMD:SOT-223-3_TabPin2</footprint>
+      <datasheet>http://www.advanced-monolithic.com/pdf/ds1117.pdf</datasheet>
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <fields>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</field>
+      </fields>
+      <libsource lib="Regulator_Linear" part="AMS1117-3.3" description="1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223"/>
+      <property name="Sheetname" value="Główny"/>
+      <property name="Sheetfile" value="LogicAnalyzer V6.0.kicad_sch"/>
+      <property name="ki_keywords" value="linear regulator ldo fixed positive"/>
+      <property name="ki_fp_filters" value="SOT?223*TabPin2*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>45745734-2613-463d-a220-98cc225e992b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="" part="C2897385">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">C2897385</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C2935928">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">C2935928</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+        <pin num="3" name="3" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C2938871">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C2938871</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="unspecified"/>
+        <pin num="2" name="A1" type="unspecified"/>
+        <pin num="3" name="A2" type="unspecified"/>
+        <pin num="4" name="A3" type="unspecified"/>
+        <pin num="5" name="A4" type="unspecified"/>
+        <pin num="6" name="NC0" type="unspecified"/>
+        <pin num="7" name="GND" type="unspecified"/>
+        <pin num="8" name="OE" type="unspecified"/>
+        <pin num="9" name="NC1" type="unspecified"/>
+        <pin num="10" name="B4Y" type="unspecified"/>
+        <pin num="11" name="B3Y" type="unspecified"/>
+        <pin num="12" name="B2Y" type="unspecified"/>
+        <pin num="13" name="B1Y" type="unspecified"/>
+        <pin num="14" name="VCCB" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C2938871_1">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C2938871_1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="unspecified"/>
+        <pin num="2" name="A1" type="unspecified"/>
+        <pin num="3" name="A2" type="unspecified"/>
+        <pin num="4" name="A3" type="unspecified"/>
+        <pin num="5" name="A4" type="unspecified"/>
+        <pin num="6" name="NC0" type="unspecified"/>
+        <pin num="7" name="GND" type="unspecified"/>
+        <pin num="8" name="OE" type="unspecified"/>
+        <pin num="9" name="NC1" type="unspecified"/>
+        <pin num="10" name="B4Y" type="unspecified"/>
+        <pin num="11" name="B3Y" type="unspecified"/>
+        <pin num="12" name="B2Y" type="unspecified"/>
+        <pin num="13" name="B1Y" type="unspecified"/>
+        <pin num="14" name="VCCB" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C2938871_2">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C2938871_2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="unspecified"/>
+        <pin num="2" name="A1" type="unspecified"/>
+        <pin num="3" name="A2" type="unspecified"/>
+        <pin num="4" name="A3" type="unspecified"/>
+        <pin num="5" name="A4" type="unspecified"/>
+        <pin num="6" name="NC0" type="unspecified"/>
+        <pin num="7" name="GND" type="unspecified"/>
+        <pin num="8" name="OE" type="unspecified"/>
+        <pin num="9" name="NC1" type="unspecified"/>
+        <pin num="10" name="B4Y" type="unspecified"/>
+        <pin num="11" name="B3Y" type="unspecified"/>
+        <pin num="12" name="B2Y" type="unspecified"/>
+        <pin num="13" name="B1Y" type="unspecified"/>
+        <pin num="14" name="VCCB" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C2938871_3">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C2938871_3</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="unspecified"/>
+        <pin num="2" name="A1" type="unspecified"/>
+        <pin num="3" name="A2" type="unspecified"/>
+        <pin num="4" name="A3" type="unspecified"/>
+        <pin num="5" name="A4" type="unspecified"/>
+        <pin num="6" name="NC0" type="unspecified"/>
+        <pin num="7" name="GND" type="unspecified"/>
+        <pin num="8" name="OE" type="unspecified"/>
+        <pin num="9" name="NC1" type="unspecified"/>
+        <pin num="10" name="B4Y" type="unspecified"/>
+        <pin num="11" name="B3Y" type="unspecified"/>
+        <pin num="12" name="B2Y" type="unspecified"/>
+        <pin num="13" name="B1Y" type="unspecified"/>
+        <pin num="14" name="VCCB" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C2938871_4">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C2938871_4</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="unspecified"/>
+        <pin num="2" name="A1" type="unspecified"/>
+        <pin num="3" name="A2" type="unspecified"/>
+        <pin num="4" name="A3" type="unspecified"/>
+        <pin num="5" name="A4" type="unspecified"/>
+        <pin num="6" name="NC0" type="unspecified"/>
+        <pin num="7" name="GND" type="unspecified"/>
+        <pin num="8" name="OE" type="unspecified"/>
+        <pin num="9" name="NC1" type="unspecified"/>
+        <pin num="10" name="B4Y" type="unspecified"/>
+        <pin num="11" name="B3Y" type="unspecified"/>
+        <pin num="12" name="B2Y" type="unspecified"/>
+        <pin num="13" name="B1Y" type="unspecified"/>
+        <pin num="14" name="VCCB" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C2938871_5">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C2938871_5</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="VCCA" type="unspecified"/>
+        <pin num="2" name="A1" type="unspecified"/>
+        <pin num="3" name="A2" type="unspecified"/>
+        <pin num="4" name="A3" type="unspecified"/>
+        <pin num="5" name="A4" type="unspecified"/>
+        <pin num="6" name="NC0" type="unspecified"/>
+        <pin num="7" name="GND" type="unspecified"/>
+        <pin num="8" name="OE" type="unspecified"/>
+        <pin num="9" name="NC1" type="unspecified"/>
+        <pin num="10" name="B4Y" type="unspecified"/>
+        <pin num="11" name="B3Y" type="unspecified"/>
+        <pin num="12" name="B2Y" type="unspecified"/>
+        <pin num="13" name="B1Y" type="unspecified"/>
+        <pin num="14" name="VCCB" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="C7203002">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">C7203002</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="GP0" type="unspecified"/>
+        <pin num="2" name="GP1" type="unspecified"/>
+        <pin num="3" name="GND0" type="unspecified"/>
+        <pin num="4" name="GP2" type="unspecified"/>
+        <pin num="5" name="GP3" type="unspecified"/>
+        <pin num="6" name="GP4" type="unspecified"/>
+        <pin num="7" name="GP5" type="unspecified"/>
+        <pin num="8" name="GND1" type="unspecified"/>
+        <pin num="9" name="GP6" type="unspecified"/>
+        <pin num="10" name="GP7" type="unspecified"/>
+        <pin num="11" name="GP8" type="unspecified"/>
+        <pin num="12" name="GP9" type="unspecified"/>
+        <pin num="13" name="GND2" type="unspecified"/>
+        <pin num="14" name="GP10" type="unspecified"/>
+        <pin num="15" name="GP11" type="unspecified"/>
+        <pin num="16" name="GP12" type="unspecified"/>
+        <pin num="17" name="GP13" type="unspecified"/>
+        <pin num="18" name="GND3" type="unspecified"/>
+        <pin num="19" name="GP14" type="unspecified"/>
+        <pin num="20" name="GP15" type="unspecified"/>
+        <pin num="21" name="GP16" type="unspecified"/>
+        <pin num="22" name="GP17" type="unspecified"/>
+        <pin num="23" name="GND4" type="unspecified"/>
+        <pin num="24" name="GP18" type="unspecified"/>
+        <pin num="25" name="GP19" type="unspecified"/>
+        <pin num="26" name="GP20" type="unspecified"/>
+        <pin num="27" name="GP21" type="unspecified"/>
+        <pin num="28" name="GND5" type="unspecified"/>
+        <pin num="29" name="GP22" type="unspecified"/>
+        <pin num="30" name="RUN" type="unspecified"/>
+        <pin num="31" name="GP26" type="unspecified"/>
+        <pin num="32" name="GP27" type="unspecified"/>
+        <pin num="33" name="GND6" type="unspecified"/>
+        <pin num="34" name="GP28" type="unspecified"/>
+        <pin num="35" name="ADC_VREF" type="unspecified"/>
+        <pin num="36" name="P_3V3_OUT" type="unspecified"/>
+        <pin num="37" name="P_3V3_EN" type="unspecified"/>
+        <pin num="38" name="GND7" type="unspecified"/>
+        <pin num="39" name="VSYS" type="unspecified"/>
+        <pin num="40" name="VBUS" type="unspecified"/>
+        <pin num="41" name="SWCLK" type="unspecified"/>
+        <pin num="42" name="GND8" type="unspecified"/>
+        <pin num="43" name="SWDIO" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="my_capacitor_11">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">my_capacitor_11</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="my_capacitor_2">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">my_capacitor_2</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="my_capacitor_7">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">my_capacitor_7</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="my_resistor">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">my_resistor</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="" part="my_resistor_1">
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">my_resistor_1</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspecified"/>
+        <pin num="2" name="2" type="unspecified"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x09_Odd_Even">
+      <description>Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x09_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x09, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x14_Odd_Even">
+      <description>Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x14_Odd_Even</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Generic connector, double row, 02x14, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+        <pin num="21" name="Pin_21" type="passive"/>
+        <pin num="22" name="Pin_22" type="passive"/>
+        <pin num="23" name="Pin_23" type="passive"/>
+        <pin num="24" name="Pin_24" type="passive"/>
+        <pin num="25" name="Pin_25" type="passive"/>
+        <pin num="26" name="Pin_26" type="passive"/>
+        <pin num="27" name="Pin_27" type="passive"/>
+        <pin num="28" name="Pin_28" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized_Small">
+      <description>Polarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Polarized capacitor, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Diode, small symbol</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="FerriteBead_Small">
+      <description>Ferrite bead, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+        <fp>*Ferrite*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">FerriteBead_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Ferrite bead, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Polyfuse_Small">
+      <description>Resettable fuse, polymeric positive temperature coefficient, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>*polyfuse*</fp>
+        <fp>*PTC*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">F</field>
+        <field name="Value">Polyfuse_Small</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Resettable fuse, polymeric positive temperature coefficient, small symbol</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole without connection</field>
+      </fields>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">~</field>
+        <field name="Description">Mounting Hole with connection</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Przelaczniki" part="SS15E01L5">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value"/>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-1.8">
+      <description>1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-1.8</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 1.8V fixed output, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-2.5">
+      <description>1A Low Dropout regulator, positive, 2.5V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-2.5</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 2.5V fixed output, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AMS1117-3.3">
+      <description>1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</description>
+      <docs>http://www.advanced-monolithic.com/pdf/ds1117.pdf</docs>
+      <footprints>
+        <fp>SOT?223*TabPin2*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AMS1117-3.3</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-223-3_TabPin2</field>
+        <field name="Datasheet">http://www.advanced-monolithic.com/pdf/ds1117.pdf</field>
+        <field name="Description">1A Low Dropout regulator, positive, 3.3V fixed output, SOT-223</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="VO" type="power_out"/>
+        <pin num="3" name="VI" type="power_in"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Przelaczniki">
+      <uri>C:/Users/IWONA/Documents/KiCad/8.0/symbols/Przelaczniki.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\9.0\share\kicad\symbols/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/DIN1" class="Default">
+      <node ref="J5" pin="25" pinfunction="Pin_25" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="A1" pintype="unspecified"/>
+    </net>
+    <net code="2" name="/DIN2" class="Default">
+      <node ref="J5" pin="23" pinfunction="Pin_23" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="A2" pintype="unspecified"/>
+    </net>
+    <net code="3" name="/DIN3" class="Default">
+      <node ref="J5" pin="21" pinfunction="Pin_21" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="A3" pintype="unspecified"/>
+    </net>
+    <net code="4" name="/DIN4" class="Default">
+      <node ref="J5" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="A4" pintype="unspecified"/>
+    </net>
+    <net code="5" name="/DIN5" class="Default">
+      <node ref="J5" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="U6" pin="2" pinfunction="A1" pintype="unspecified"/>
+    </net>
+    <net code="6" name="/DIN6" class="Default">
+      <node ref="J5" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="A2" pintype="unspecified"/>
+    </net>
+    <net code="7" name="/DIN7" class="Default">
+      <node ref="J5" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="U6" pin="4" pinfunction="A3" pintype="unspecified"/>
+    </net>
+    <net code="8" name="/DIN8" class="Default">
+      <node ref="J5" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="A4" pintype="unspecified"/>
+    </net>
+    <net code="9" name="/DIN9" class="Default">
+      <node ref="J5" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="A1" pintype="unspecified"/>
+    </net>
+    <net code="10" name="/DIN10" class="Default">
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="A2" pintype="unspecified"/>
+    </net>
+    <net code="11" name="/DIN11" class="Default">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="A3" pintype="unspecified"/>
+    </net>
+    <net code="12" name="/DIN12" class="Default">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="A4" pintype="unspecified"/>
+    </net>
+    <net code="13" name="/DIN13" class="Default">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="A4" pintype="unspecified"/>
+    </net>
+    <net code="14" name="/DIN14" class="Default">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="A3" pintype="unspecified"/>
+    </net>
+    <net code="15" name="/DIN15" class="Default">
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="A2" pintype="unspecified"/>
+    </net>
+    <net code="16" name="/DIN16" class="Default">
+      <node ref="J5" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="A1" pintype="unspecified"/>
+    </net>
+    <net code="17" name="/DIN17" class="Default">
+      <node ref="J5" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="A4" pintype="unspecified"/>
+    </net>
+    <net code="18" name="/DIN18" class="Default">
+      <node ref="J5" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="U5" pin="4" pinfunction="A3" pintype="unspecified"/>
+    </net>
+    <net code="19" name="/DIN19" class="Default">
+      <node ref="J5" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="A2" pintype="unspecified"/>
+    </net>
+    <net code="20" name="/DIN20" class="Default">
+      <node ref="J5" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="A1" pintype="unspecified"/>
+    </net>
+    <net code="21" name="/DIN21" class="Default">
+      <node ref="J5" pin="20" pinfunction="Pin_20" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="A4" pintype="unspecified"/>
+    </net>
+    <net code="22" name="/DIN22" class="Default">
+      <node ref="J5" pin="22" pinfunction="Pin_22" pintype="passive"/>
+      <node ref="U4" pin="4" pinfunction="A3" pintype="unspecified"/>
+    </net>
+    <net code="23" name="/DIN23" class="Default">
+      <node ref="J5" pin="24" pinfunction="Pin_24" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="A2" pintype="unspecified"/>
+    </net>
+    <net code="24" name="/DIN24" class="Default">
+      <node ref="J5" pin="26" pinfunction="Pin_26" pintype="passive"/>
+      <node ref="U4" pin="2" pinfunction="A1" pintype="unspecified"/>
+    </net>
+    <net code="25" name="/DOUT1" class="Default">
+      <node ref="U1" pin="13" pinfunction="B1Y" pintype="unspecified"/>
+      <node ref="U7" pin="4" pinfunction="GP2" pintype="unspecified"/>
+    </net>
+    <net code="26" name="/DOUT2" class="Default">
+      <node ref="U1" pin="12" pinfunction="B2Y" pintype="unspecified"/>
+      <node ref="U7" pin="5" pinfunction="GP3" pintype="unspecified"/>
+    </net>
+    <net code="27" name="/DOUT3" class="Default">
+      <node ref="U1" pin="11" pinfunction="B3Y" pintype="unspecified"/>
+      <node ref="U7" pin="6" pinfunction="GP4" pintype="unspecified"/>
+    </net>
+    <net code="28" name="/DOUT4" class="Default">
+      <node ref="U1" pin="10" pinfunction="B4Y" pintype="unspecified"/>
+      <node ref="U7" pin="7" pinfunction="GP5" pintype="unspecified"/>
+    </net>
+    <net code="29" name="/DOUT5" class="Default">
+      <node ref="U6" pin="13" pinfunction="B1Y" pintype="unspecified"/>
+      <node ref="U7" pin="9" pinfunction="GP6" pintype="unspecified"/>
+    </net>
+    <net code="30" name="/DOUT6" class="Default">
+      <node ref="U6" pin="12" pinfunction="B2Y" pintype="unspecified"/>
+      <node ref="U7" pin="10" pinfunction="GP7" pintype="unspecified"/>
+    </net>
+    <net code="31" name="/DOUT7" class="Default">
+      <node ref="U6" pin="11" pinfunction="B3Y" pintype="unspecified"/>
+      <node ref="U7" pin="11" pinfunction="GP8" pintype="unspecified"/>
+    </net>
+    <net code="32" name="/DOUT8" class="Default">
+      <node ref="U6" pin="10" pinfunction="B4Y" pintype="unspecified"/>
+      <node ref="U7" pin="12" pinfunction="GP9" pintype="unspecified"/>
+    </net>
+    <net code="33" name="/DOUT9" class="Default">
+      <node ref="U3" pin="13" pinfunction="B1Y" pintype="unspecified"/>
+      <node ref="U7" pin="14" pinfunction="GP10" pintype="unspecified"/>
+    </net>
+    <net code="34" name="/DOUT10" class="Default">
+      <node ref="U3" pin="12" pinfunction="B2Y" pintype="unspecified"/>
+      <node ref="U7" pin="15" pinfunction="GP11" pintype="unspecified"/>
+    </net>
+    <net code="35" name="/DOUT11" class="Default">
+      <node ref="U3" pin="11" pinfunction="B3Y" pintype="unspecified"/>
+      <node ref="U7" pin="16" pinfunction="GP12" pintype="unspecified"/>
+    </net>
+    <net code="36" name="/DOUT12" class="Default">
+      <node ref="U3" pin="10" pinfunction="B4Y" pintype="unspecified"/>
+      <node ref="U7" pin="17" pinfunction="GP13" pintype="unspecified"/>
+    </net>
+    <net code="37" name="/DOUT13" class="Default">
+      <node ref="U2" pin="10" pinfunction="B4Y" pintype="unspecified"/>
+      <node ref="U7" pin="19" pinfunction="GP14" pintype="unspecified"/>
+    </net>
+    <net code="38" name="/DOUT14" class="Default">
+      <node ref="U2" pin="11" pinfunction="B3Y" pintype="unspecified"/>
+      <node ref="U7" pin="20" pinfunction="GP15" pintype="unspecified"/>
+    </net>
+    <net code="39" name="/DOUT15" class="Default">
+      <node ref="U2" pin="12" pinfunction="B2Y" pintype="unspecified"/>
+      <node ref="U7" pin="21" pinfunction="GP16" pintype="unspecified"/>
+    </net>
+    <net code="40" name="/DOUT16" class="Default">
+      <node ref="U2" pin="13" pinfunction="B1Y" pintype="unspecified"/>
+      <node ref="U7" pin="22" pinfunction="GP17" pintype="unspecified"/>
+    </net>
+    <net code="41" name="/DOUT17" class="Default">
+      <node ref="U5" pin="10" pinfunction="B4Y" pintype="unspecified"/>
+      <node ref="U7" pin="24" pinfunction="GP18" pintype="unspecified"/>
+    </net>
+    <net code="42" name="/DOUT18" class="Default">
+      <node ref="U5" pin="11" pinfunction="B3Y" pintype="unspecified"/>
+      <node ref="U7" pin="25" pinfunction="GP19" pintype="unspecified"/>
+    </net>
+    <net code="43" name="/DOUT19" class="Default">
+      <node ref="U5" pin="12" pinfunction="B2Y" pintype="unspecified"/>
+      <node ref="U7" pin="26" pinfunction="GP20" pintype="unspecified"/>
+    </net>
+    <net code="44" name="/DOUT20" class="Default">
+      <node ref="U5" pin="13" pinfunction="B1Y" pintype="unspecified"/>
+      <node ref="U7" pin="27" pinfunction="GP21" pintype="unspecified"/>
+    </net>
+    <net code="45" name="/DOUT21" class="Default">
+      <node ref="U4" pin="10" pinfunction="B4Y" pintype="unspecified"/>
+      <node ref="U7" pin="29" pinfunction="GP22" pintype="unspecified"/>
+    </net>
+    <net code="46" name="/DOUT22" class="Default">
+      <node ref="U4" pin="11" pinfunction="B3Y" pintype="unspecified"/>
+      <node ref="U7" pin="31" pinfunction="GP26" pintype="unspecified"/>
+    </net>
+    <net code="47" name="/DOUT23" class="Default">
+      <node ref="U4" pin="12" pinfunction="B2Y" pintype="unspecified"/>
+      <node ref="U7" pin="32" pinfunction="GP27" pintype="unspecified"/>
+    </net>
+    <net code="48" name="/DOUT24" class="Default">
+      <node ref="U4" pin="13" pinfunction="B1Y" pintype="unspecified"/>
+      <node ref="U7" pin="34" pinfunction="GP28" pintype="unspecified"/>
+    </net>
+    <net code="49" name="/EXT_CHAIN" class="Default">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="unspecified"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="U7" pin="1" pinfunction="GP0" pintype="unspecified"/>
+      <node ref="U7" pin="2" pinfunction="GP1" pintype="unspecified"/>
+    </net>
+    <net code="50" name="/EXT_TRIG" class="Default">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R1" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="51" name="/EXT_VREF" class="Default">
+      <node ref="FB5" pin="1" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="52" name="/POWER_1v8" class="Default">
+      <node ref="FB3" pin="2" pintype="passive"/>
+      <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="SW1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="53" name="/POWER_2v5" class="Default">
+      <node ref="FB2" pin="2" pintype="passive"/>
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="SW1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="54" name="/POWER_3v3" class="Default">
+      <node ref="FB1" pin="2" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="SW1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="55" name="/POWER_3v3_F" class="Default">
+      <node ref="C10" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C11" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C12" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C18" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C25" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C26" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C27" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C28" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="FB1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="VCCB" pintype="unspecified"/>
+      <node ref="U1" pin="8" pinfunction="OE" pintype="unspecified"/>
+      <node ref="U13" pin="2" pinfunction="VO" pintype="power_out"/>
+      <node ref="U2" pin="14" pinfunction="VCCB" pintype="unspecified"/>
+      <node ref="U2" pin="8" pinfunction="OE" pintype="unspecified"/>
+      <node ref="U3" pin="14" pinfunction="VCCB" pintype="unspecified"/>
+      <node ref="U3" pin="8" pinfunction="OE" pintype="unspecified"/>
+      <node ref="U4" pin="14" pinfunction="VCCB" pintype="unspecified"/>
+      <node ref="U4" pin="8" pinfunction="OE" pintype="unspecified"/>
+      <node ref="U5" pin="14" pinfunction="VCCB" pintype="unspecified"/>
+      <node ref="U5" pin="8" pinfunction="OE" pintype="unspecified"/>
+      <node ref="U6" pin="14" pinfunction="VCCB" pintype="unspecified"/>
+      <node ref="U6" pin="8" pinfunction="OE" pintype="unspecified"/>
+    </net>
+    <net code="56" name="/POWER_5v" class="Default">
+      <node ref="C13" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C15" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C17" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="FB4" pin="2" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="SW1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U11" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U12" pin="3" pinfunction="VI" pintype="power_in"/>
+      <node ref="U13" pin="3" pinfunction="VI" pintype="power_in"/>
+    </net>
+    <net code="57" name="/VREF" class="Default">
+      <node ref="C1" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C31" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C37" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C38" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="FB6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="VCCA" pintype="unspecified"/>
+      <node ref="U2" pin="1" pinfunction="VCCA" pintype="unspecified"/>
+      <node ref="U3" pin="1" pinfunction="VCCA" pintype="unspecified"/>
+      <node ref="U4" pin="1" pinfunction="VCCA" pintype="unspecified"/>
+      <node ref="U5" pin="1" pinfunction="VCCA" pintype="unspecified"/>
+      <node ref="U6" pin="1" pinfunction="VCCA" pintype="unspecified"/>
+    </net>
+    <net code="58" name="GND" class="Default">
+      <node ref="C1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C10" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C11" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C12" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C13" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C14" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C15" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C16" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C17" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C18" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="C25" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C26" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C27" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C28" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C29" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C31" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C37" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C38" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J4" pin="16" pinfunction="Pin_16" pintype="passive"/>
+      <node ref="J4" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="J4" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J5" pin="27" pinfunction="Pin_27" pintype="passive"/>
+      <node ref="J5" pin="28" pinfunction="Pin_28" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="unspecified"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="SW1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U11" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U13" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="7" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U3" pin="7" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U4" pin="7" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U5" pin="7" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U6" pin="7" pinfunction="GND" pintype="unspecified"/>
+      <node ref="U7" pin="13" pinfunction="GND2" pintype="unspecified"/>
+      <node ref="U7" pin="18" pinfunction="GND3" pintype="unspecified"/>
+      <node ref="U7" pin="23" pinfunction="GND4" pintype="unspecified"/>
+      <node ref="U7" pin="3" pinfunction="GND0" pintype="unspecified"/>
+      <node ref="U7" pin="33" pinfunction="GND6" pintype="unspecified"/>
+      <node ref="U7" pin="38" pinfunction="GND7" pintype="unspecified"/>
+      <node ref="U7" pin="8" pinfunction="GND1" pintype="unspecified"/>
+    </net>
+    <net code="59" name="Net-(F1-Pad2)" class="Default">
+      <node ref="F1" pin="2" pintype="passive"/>
+      <node ref="FB4" pin="1" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(FB5-Pad2)" class="Default">
+      <node ref="FB5" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(FB6-Pad2)" class="Default">
+      <node ref="FB6" pin="2" pintype="passive"/>
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW1" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(U7-VBUS)" class="Default">
+      <node ref="C29" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="F1" pin="1" pintype="passive"/>
+      <node ref="U7" pin="40" pinfunction="VBUS" pintype="unspecified"/>
+    </net>
+    <net code="63" name="Net-(U11-VO)" class="Default">
+      <node ref="C14" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="FB3" pin="1" pintype="passive"/>
+      <node ref="U11" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="64" name="Net-(U12-VO)" class="Default">
+      <node ref="C16" pin="2" pinfunction="2" pintype="unspecified"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="FB2" pin="1" pintype="passive"/>
+      <node ref="U12" pin="2" pinfunction="VO" pintype="power_out"/>
+    </net>
+    <net code="65" name="unconnected-(J1-Pad2)" class="Default">
+      <node ref="J1" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="66" name="unconnected-(J3-Pad2)" class="Default">
+      <node ref="J3" pin="2" pinfunction="2" pintype="unspecified"/>
+    </net>
+    <net code="67" name="unconnected-(U1-NC0-Pad6)" class="Default">
+      <node ref="U1" pin="6" pinfunction="NC0" pintype="unspecified"/>
+    </net>
+    <net code="68" name="unconnected-(U1-NC1-Pad9)" class="Default">
+      <node ref="U1" pin="9" pinfunction="NC1" pintype="unspecified"/>
+    </net>
+    <net code="69" name="unconnected-(U2-NC0-Pad6)" class="Default">
+      <node ref="U2" pin="6" pinfunction="NC0" pintype="unspecified"/>
+    </net>
+    <net code="70" name="unconnected-(U2-NC1-Pad9)" class="Default">
+      <node ref="U2" pin="9" pinfunction="NC1" pintype="unspecified"/>
+    </net>
+    <net code="71" name="unconnected-(U3-NC0-Pad6)" class="Default">
+      <node ref="U3" pin="6" pinfunction="NC0" pintype="unspecified"/>
+    </net>
+    <net code="72" name="unconnected-(U3-NC1-Pad9)" class="Default">
+      <node ref="U3" pin="9" pinfunction="NC1" pintype="unspecified"/>
+    </net>
+    <net code="73" name="unconnected-(U4-NC0-Pad6)" class="Default">
+      <node ref="U4" pin="6" pinfunction="NC0" pintype="unspecified"/>
+    </net>
+    <net code="74" name="unconnected-(U4-NC1-Pad9)" class="Default">
+      <node ref="U4" pin="9" pinfunction="NC1" pintype="unspecified"/>
+    </net>
+    <net code="75" name="unconnected-(U5-NC0-Pad6)" class="Default">
+      <node ref="U5" pin="6" pinfunction="NC0" pintype="unspecified"/>
+    </net>
+    <net code="76" name="unconnected-(U5-NC1-Pad9)" class="Default">
+      <node ref="U5" pin="9" pinfunction="NC1" pintype="unspecified"/>
+    </net>
+    <net code="77" name="unconnected-(U6-NC0-Pad6)" class="Default">
+      <node ref="U6" pin="6" pinfunction="NC0" pintype="unspecified"/>
+    </net>
+    <net code="78" name="unconnected-(U6-NC1-Pad9)" class="Default">
+      <node ref="U6" pin="9" pinfunction="NC1" pintype="unspecified"/>
+    </net>
+    <net code="79" name="unconnected-(U7-ADC_VREF-Pad35)" class="Default">
+      <node ref="U7" pin="35" pinfunction="ADC_VREF" pintype="unspecified"/>
+    </net>
+    <net code="80" name="unconnected-(U7-GND5-Pad28)" class="Default">
+      <node ref="U7" pin="28" pinfunction="GND5" pintype="unspecified"/>
+    </net>
+    <net code="81" name="unconnected-(U7-GND8-Pad42)" class="Default">
+      <node ref="U7" pin="42" pinfunction="GND8" pintype="unspecified"/>
+    </net>
+    <net code="82" name="unconnected-(U7-P_3V3_EN-Pad37)" class="Default">
+      <node ref="U7" pin="37" pinfunction="P_3V3_EN" pintype="unspecified"/>
+    </net>
+    <net code="83" name="unconnected-(U7-P_3V3_OUT-Pad36)" class="Default">
+      <node ref="U7" pin="36" pinfunction="P_3V3_OUT" pintype="unspecified"/>
+    </net>
+    <net code="84" name="unconnected-(U7-RUN-Pad30)" class="Default">
+      <node ref="U7" pin="30" pinfunction="RUN" pintype="unspecified"/>
+    </net>
+    <net code="85" name="unconnected-(U7-SWCLK-Pad41)" class="Default">
+      <node ref="U7" pin="41" pinfunction="SWCLK" pintype="unspecified"/>
+    </net>
+    <net code="86" name="unconnected-(U7-SWDIO-Pad43)" class="Default">
+      <node ref="U7" pin="43" pinfunction="SWDIO" pintype="unspecified"/>
+    </net>
+    <net code="87" name="unconnected-(U7-VSYS-Pad39)" class="Default">
+      <node ref="U7" pin="39" pinfunction="VSYS" pintype="unspecified"/>
+    </net>
+  </nets>
+</export>
