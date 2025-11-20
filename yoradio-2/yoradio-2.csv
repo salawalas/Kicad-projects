@@ -1,0 +1,24 @@
+Reference	Value	Datasheet	Footprint	Qty	DNP
+C1,C4,C5,C10,C15	0.1u	~	Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder	5	
+C2,C6,C9,C14	2200u/6.3V	~	Kondensatory_elektrolityczne:2200u_6.3V	4	
+C3,C7,C8,C13	33u/6.3V	~	Capacitor_THT:CP_Radial_Tantal_D5.0mm_P2.50mm	4	
+C11,C12	2u	~	Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder	2	
+D1,D2	1N4001	http://www.vishay.com/docs/88503/1n4001.pdf	Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal	2	
+FB1	BLM21HE472SH1	~	Inductor_SMD:L_0805_2012Metric	1	
+J1,J2,J6	Conn_01x04	~	Connector_JST:JST_PH_B4B-PH-K_1x04_P2.00mm_Vertical,Connector_JST:JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,Connector_Molex:Molex_KK-254_AE-6410-04A_1x04_P2.54mm_Vertical	3	
+J3	AudioJack2_Dual_Ground_Switch	~	Gniazdo_jack:Jack_3.5mm_PJ31060-I_Horizontal	1	
+J4	Conn_01x02	~	Connector_Molex:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical	1	
+J5	Conn_01x03	~	Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical	1	
+J7	Conn_01x01	~	Connector_Wire:SolderWire-0.5sqmm_1x01_D0.9mm_OD2.1mm	1	
+L1,L2	33u	~	Inductor_THT:L_Radial_D7.0mm_P3.00mm	2	
+M1,M2,M4,M5,M6	~		Moduły:DAC_PCM5102DAC_PCM5102,Moduły:PAM8403_Audio_2x3W_,Moduły:TC4056A_Mosfet,Moduły:USB_C_PD_QC_Power_SupplyUSB_C_PS,Moduły:Wskaznik_LED_1S_Lipo	5	
+M3	TPS63020		Moduły:TPS63020_module	1	
+Q1	IRF7404	http://www.infineon.com/dgdl/irf7404.pdf?fileId=5546d462533600a4015355fa2b5b1b9e	Package_SO:SOIC-8_3.9x4.9mm_P1.27mm	1	
+Q2	BC858R	~	Package_TO_SOT_SMD:SOT-23	1	
+R1,R2,R5	10k	~	Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder	3	
+R3	1k	~	Resistor_SMD:R_1206_3216Metric	1	
+R4	100k	~	Resistor_SMD:R_1206_3216Metric	1	
+R6	22k	~	Resistor_SMD:R_1206_3216Metric	1	
+R7	47k	~	Resistor_SMD:R_0805_2012Metric	1	
+RV1	2x10k		Potencjometr_THT:Potencjometr_podwójny_thumbwheel.mp3	1	
+SW1	SW_SPDT3x1	~		1	
